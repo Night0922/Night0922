@@ -29,7 +29,26 @@ I believe in writing clean, maintainable code while delivering high-performance 
 Feel free to browse through my projects, and don't hesitate to reach out for collaborations or inquiries.
 
 ---
+## My Skill Set
 
+### Frontend
+- **React.js**, **Next.js**, **Astro**, **Angular**, **Vue.js**, **TypeScript**
+- **CSS**, **HTML**, **SASS**, **Chart.js**, **GraphQL**
+
+### Backend
+- **Ruby on Rails**, **Laravel**, **Node.js**, **Django**, **Python**, **PHP**, **C#**, **Java**
+- **CodeIgniter**, **Express.js**, **FastAPI**
+
+### Database
+- **PostgreSQL**, **MySQL**, **MongoDB**, **MariaDB**, **Firebase**
+
+### DevOps
+- **AWS**, **Google Cloud**, **Git**
+
+### Mobile Development
+- **React Native**
+
+---
 ### Contact:
 - **GitHub**: [Night0922](https://github.com/Night0922)
 
