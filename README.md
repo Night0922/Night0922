@@ -1,5 +1,7 @@
 # Night0922
 
+https://github.com/Night0922/Night0922/blob/3a645355e0dcf6c9fefa0021f585b0c61571bef0/Tech-savvy%20bear%20at%20the%20workstation.png
+
 ## About Me
 
 I am a **Senior Software Engineer** with over 10 years of experience specializing in website development, including **Python**,  **Ruby on Rails**, **React**, **Next.js**, **Rust** and **Mobile applications**. I have a strong background in **AI** and **cloud computing** as well. 
