@@ -2,14 +2,14 @@
 
 ## About Me
 
-I am a **Senior Software Engineer** with over 10 years of experience specializing in website development, including **Ruby on Rails**, **React**, **Next.js**, and **Mobile applications**. I have a strong background in **AI** and **cloud computing** as well. 
+I am a **Senior Software Engineer** with over 10 years of experience specializing in website development, including **Python**, **Ruby on Rails**, **React**, **Next.js**, and **Mobile applications**. I have a strong background in **AI** and **cloud computing** as well. 
 
 My expertise spans across **JavaScript**, **PHP**, and **Python**, where I excel at creating efficient user interfaces, robust database structures, and scalable applications. I have a proven track record in multi-threaded applications and cloud technologies. I am also skilled in building SEO-friendly websites and web 2.0 applications, with deep knowledge in **E-commerce**, **Healthcare**, **CRM**, **Fintech**, and **ERP software development**.
 
 ## Skills & Technologies
 
-- **Frontend Development**: React.js, Next.js, Astro, Angular, Vue.js, TypeScript
-- **Backend Development**: Ruby on Rails, Laravel, Node.js, Django
+- **Frontend Development**: React.js, Next.js, Astro, Angular, Vue.js, TypeScript, JavaScript
+- **Backend Development**: Ruby on Rails, Laravel, Node.js, Django, Go, Java, Python
 - **Databases**: PostgreSQL, SQL Server, MySQL, MongoDB
 - **Mobile Development**: React Native
 - **Cloud Platforms**: Azure, Heroku, GCP, AWS
