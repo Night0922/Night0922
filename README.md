@@ -1,6 +1,6 @@
 # Night0922
 
-https://github.com/Night0922/Night0922/blob/3a645355e0dcf6c9fefa0021f585b0c61571bef0/Tech-savvy%20bear%20at%20the%20workstation.png
+![Bear with Computers](https://github.com/Night0922/Night0922/blob/3a645355e0dcf6c9fefa0021f585b0c61571bef0/Tech-savvy%20bear%20at%20the%20workstation.png)
 
 ## About Me
 
